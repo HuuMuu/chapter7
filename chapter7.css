@@ -19,9 +19,20 @@
 }
 .webcamp {
   width: 840px;
-  padding: 50px 0px 30px 0px;
+  margin: auto;
 }
 .wc {
-  background-image: url(img/wc-logo.png);
-  background-size: cover;
+  padding: 50px 0px 30px 0px;
+  border-bottom: 1px solid;
+}
+
+.wc-1 {
+  padding: 30px 0px 30px 0px;
+  border-bottom: 1px solid;
+}
+
+.wc-2 {
+  padding: 30px 0px 30px 0px;
+  border-bottom: 1px solid;
+  margin-bottom: 50px;
 }
